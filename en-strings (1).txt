@@ -1,0 +1,69 @@
+﻿<string name="vs_pravash">VS Pravas</string>
+
+
+    <string name="sharing">Sharing</string>
+    <string name="no_team_member_added">No Team Member Added</string>
+    <string name="maximum_reporting_done">Maximum Reporting Done</string>
+    <string name="maximum_reporting_done_msg">You\'ve submitted multiple reports. Encourage Karyakarta to report using SARAL App.</string>
+    <string name="no_designation_assigned">No Designation Assigned</string>
+
+
+
+
+    <string name="name_number">Name, Number</string>
+    <string name="subscribe_to_receive_messages_and_calls_from_saral">Subscribe to receive messages and calls from <font color="#FF9500"><b>SARAL.</b></font></string>
+    <string name="powered_by_saral">Powered by <font color="#FF9500"><b>Saral</b></font></string>
+    <string name="last_update_date"><![CDATA[Last update : %1$s]]></string>
+    <string name="for_an_enhanced_experience_with_saral_app_update_the_recent_version">For an enhanced experience with SARAL App, Update the recent version.</string>
+    <string name="update_now">Update Now</string>
+    <string name="saral_bjp_org">Saral.bjp.org</string>
+    <string name="submit_whatsapp_group_links">Submit Whatsapp Group Links</string>
+    <string name="search_by_2">Search By</string>
+    <string name="insert_name_mobile_number_to_search_relevant_entries">Insert name/ mobile number to search relevant entries.</string>
+
+
+    <string name="select_blood_group">Select Blood Group</string>
+    <string name="account">Account</string>
+    <string name="your_account_settings">Your Account Settings</string>
+    <string name="delete_my_account">Delete My Account</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="read_the_tnc_before_account_vanish">Read the <b>\"Terms and Conditions\"</b> before you vanish your account with us.</string>
+    <string name="tnc_deleting_your_account_all_information_on_saral_app_will_be_lost">By deleting your account all your personal information, reporting and any other activity done on saral app will be lost.</string>
+    <string name="please_specify_reasons">Please specify reasons :</string>
+
+
+    <string name="choose_panna">Choose a Panna</string>
+    
+    
+    
+    
+    
+    
+    <string name="delete_account">Delete Account</string>
+<string name="read"> Read the "Terms and Conditions" before you vanish your account with us.</string>
+<string name="li-1"> Once you choose to delete your account, your account will no longer be available to you. </string>
+<string name="li-2"> You will not be able to activate or use the account again.</string>
+<string name="li-3"> You can create a new account by using the same registered mobile number.</string>
+<string name="li-4"> By deleting your account all your personal information will be lost.</string>
+<string name="li-5">By deleting your account, reporting done on any of the campaigns will be lost. </string>
+<string name="li-6"> All other activities done on our “SARAL” application will be deleted.</string>
+<string name="accept_delete"> Accept "Terms and Conditions"</string>
+<string name="continue">CONTINUE </string>
+<string name="reason_specify">Please specify reasons :  </string>
+<string name="select">Select  </string>
+<string name="r1">I’m getting too many notifications </string>
+<string name="r2">My account is hacked </string>
+<string name="r3">I’m using an another account </string>
+<string name="r4">I have data privacy & safety concern </string>
+<string name="r5"> Others</string>
+<string name="provide"> Provide</string>
+<string name="enter_otp_text">Enter the 6 digit verification code sent to your registered mobile number </string>
+<string name="resend"> Resend</string>
+<string name="submit">Submit </string>
+<string name="do_not_delete"> Do Not Delete</string>
+<string name="account_deleted">Your Account is Deleted </string>
+<string name="are_you_sure">Are you Sure? </string>
+<string name="confirmation_dialog_text">Please Confirm that you want to permanently delete your account and data. </string>
+
+
+
